@@ -3,5 +3,7 @@ if marks >= 90:
     print("Grade A")
 elif marks > 70:
     print("Grade B")
-else:
+elif marks > 50:
     print("Grade C")
+else:
+    print("Grade D")    

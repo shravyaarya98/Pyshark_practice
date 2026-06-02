@@ -5,3 +5,4 @@ elif marks > 70:
     print("Grade B")
 else:
     print("Grade C")
+    
